@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689061630 source:d:\dbms\project1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<windows.h>
+	<mysql.h>
+
